@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Rithik Raja S<br>🌐 A passionate Full Stack Developer</h2>
+<h2 align="left">Hi 👋! I'm Rithik Raja S<br>🌐 A passionate Full Stack Developer<br>🌱 I’m currently learning React.js and UI Library<br>💡 I'm seeking help in Server-side Environment</h2>
 
 ###
 
