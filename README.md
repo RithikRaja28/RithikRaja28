@@ -82,8 +82,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://github.com/RithikRaja28/RithikRaja28/blob/main/github/snake.yml" alt="Snake animation" />
 
 ###
